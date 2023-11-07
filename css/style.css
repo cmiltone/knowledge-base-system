@@ -1491,6 +1491,16 @@ blockquote {
 }
 
 
+.pricing-block {
+    margin: 0 33%;
+}
+
+@media (max-width: 480px) {
+    .pricing-block {
+        margin: auto;
+    }
+}
+
 
 /*------------------------------------------------------------------------------------------*/
 /* 7. Footer */
